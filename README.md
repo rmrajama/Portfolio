@@ -16,6 +16,3 @@ SCHOOL
 
 Bass line detection (Audio content analysis project, 2013):
 This was a course project work in audio content analysis I did together with Matts Höglund. The aim of the project was to develop an algorithm (in MATLAB) for estimating the notes of the bass line in an arbitrary musical piece. The folder contains our code and a report on the performance of the final algorithm.
-
-Other:
--Bachelor's thesis "Touch screen technologies" (in swedish!), 2012
